@@ -1,5 +1,5 @@
 {
-  "Author": "🆂🅰🅳🅸🆈🅰 🆂🅰🅳🅸 🅱🅾🆃",
+  "Author": "SHAHADAT CHAT BOT",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,8 +11,8 @@
   "EMAIL": "your email",
   "PASSWORD": "G-sadiya0000#",
   "OTPKEY": "",
-  "BOTNAME": "🆂🅰🅳🅸🆈🅰 🆂🅰🅳🅸 🅱🅾🆃",
-  "PREFIX": "-",
+  "BOTNAME": "SADIYA CHAT BOT",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
